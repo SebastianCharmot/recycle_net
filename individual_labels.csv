@@ -1,0 +1,7 @@
+﻿Model,Augmentation,AP 50:95 (Glass),AP 50:95 (Metal),AP 50:95 (Paper),AP 50:95 (Plastic)
+R101-FPN,First,50.96,55.6,76.49,50.5
+R101-FPN,Second,69.74,72,87.4,71.24
+R101-FPN,Third,71.84,77.9,86.41,75.5
+X101-FPN,First,61.11,43.19,72.45,56.71
+X101-FPN,Second,72.56,56.38,83.1,65.89
+X101-FPN,Third,76.77,62.74,84.16,73.46
